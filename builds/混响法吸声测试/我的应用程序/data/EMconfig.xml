@@ -1,0 +1,52 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData xmlns="http://www.ni.com/LVData">
+<Version>20.0</Version>
+<Cluster>
+<Name>EM data</Name>
+<NumElts>11</NumElts>
+<DBL>
+<Name>大气压力(kPa)</Name>
+<Val>101.11499999999999</Val>
+</DBL>
+<DBL>
+<Name>大气压力(kPa) 2</Name>
+<Val>101.11499999999999</Val>
+</DBL>
+<DBL>
+<Name>相对湿度(%)</Name>
+<Val>74.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>相对湿度(%)2</Name>
+<Val>75.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>大气温度(℃)</Name>
+<Val>25.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>大气温度(℃)2</Name>
+<Val>28.50000000000000</Val>
+</DBL>
+<DBL>
+<Name>声速(m/s)</Name>
+<Val>340.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>声速(kPa)2</Name>
+<Val>340.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>混响室容积(立方米) </Name>
+<Val>20.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>试件面积(平方米)，S</Name>
+<Val>5.00000000000000</Val>
+</DBL>
+<DBL>
+<Name>分立吸声体个数，n</Name>
+<Val>3.00000000000000</Val>
+</DBL>
+</Cluster>
+</LVData>
